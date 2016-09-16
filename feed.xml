@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anna K. Jonsson</title>
+    <description>User Experience Designer
+</description>
+    <link>http://annakjonsson.github.io/</link>
+    <atom:link href="http://annakjonsson.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 15 Sep 2016 20:48:57 -0500</pubDate>
+    <lastBuildDate>Thu, 15 Sep 2016 20:48:57 -0500</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+  </channel>
+</rss>
